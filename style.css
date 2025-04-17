@@ -26,7 +26,8 @@ body {
 }
 
 .letter_ct {
-  width: 400px;
+  max-width: 400px;
+  width: 100%;
   grid-row: 4/7;
   grid-column: 5/9;
   display: flex;
